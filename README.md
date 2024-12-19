@@ -49,7 +49,3 @@ The **YouTubeScraper** offers a wide range of applications:
 ## **How to Cite the Code**
 
 **SILVA, Ergon Cugler de Moraes; ROCHA, Isabela. *Web Scraping YouTube Metrics and Transcription*. (Dec) 2024. Available at: [https://github.com/ergoncugler/web-scraping-youtube](https://github.com/ergoncugler/web-scraping-youtube).**
-
----
-
-Feel free to suggest adjustments or additional details!
