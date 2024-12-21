@@ -1,8 +1,8 @@
-# **YouTubeScraper: A comprehensive tool for scraping YouTube data and transcripts**
+# **YouTubeScrap: A comprehensive tool for scraping YouTube data and transcripts**
 
 This code ([**available on GitHub**](https://github.com/ergoncugler/web-scraping-youtube) or [**directly executable on Google Colab**](https://colab.research.google.com/drive/1W5tGxzvJetiNAXm-f5fU7hQ67bvmFm7i?usp=sharing)) was developed by [**Ergon Cugler de Moraes Silva**](https://github.com/ergoncugler) and [**Isabela Rocha**](https://www.linkedin.com/in/rocha-isabela/). It aims to **facilitate the extraction, analysis, and organization of YouTube video data and transcripts**. The tool is designed to extract detailed information from videos based on links, custom searches, and metadata, storing the results directly in Google Sheets. Key features include extracting video metrics (e.g., `title, views, likes, duration, channel details`), processing `video transcripts` (when available), and performing searches filtered by date ranges. This code is particularly useful for researchers, analysts, and content creators looking to gather and analyze YouTube data systematically and efficiently.
 
-Designed to operate within Google Colab, YouTubeScraper leverages cloud-based infrastructure to eliminate installation barriers, offering a **ready-to-use environment suitable for users with varying technical expertise**. All extracted data is organized in Google Sheets, ensuring compliance with international data privacy standards while facilitating collaboration and analysis. In a time of increasing restrictions on online data access, YouTubeScraper’s key-free functionality **democratizes data collection**, supporting research in academic, media, and communication fields. It provides a scalable, ethical, and user-friendly solution for engaging with large-scale digital content, promoting innovation in the growing field of Computational Social Sciences.
+Designed to operate within Google Colab, YouTubeScrap leverages cloud-based infrastructure to eliminate installation barriers, offering a **ready-to-use environment suitable for users with varying technical expertise**. All extracted data is organized in Google Sheets, ensuring compliance with international data privacy standards while facilitating collaboration and analysis. In a time of increasing restrictions on online data access, YouTubeScraper’s key-free functionality **democratizes data collection**, supporting research in academic, media, and communication fields. It provides a scalable, ethical, and user-friendly solution for engaging with large-scale digital content, promoting innovation in the growing field of Computational Social Sciences.
 
 ---
 
@@ -30,7 +30,7 @@ All extracted data is organized into a Google Sheet with predefined columns, inc
 
 ## **Applications and Use Cases**
 
-The **YouTubeScraper** offers a wide range of applications:
+The **YouTubeScrap** offers a wide range of applications:
 
 1. **Academic Research**: Analyzing public discourse, studying misinformation, or exploring media trends on YouTube.
 2. **Media Analysis**: Extracting engagement metrics and channel growth insights for journalists and media professionals.
