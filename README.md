@@ -119,4 +119,4 @@ Isabela Rocha, from Brazil, mailto: [isabelarocha.contato@gmail.com](isabelaroch
 
 ## How to cite it:
 
-**SILVA, Ergon Cugler de Moraes; ROCHA, Isabela. *Web Scraping YouTube Metrics and Transcription*. (Dec) 2024. Available at: [https://github.com/ergoncugler/web-scraping-youtube](https://github.com/ergoncugler/web-scraping-youtube).**
+**SILVA, Ergon Cugler de Moraes; ROCHA, Isabela. *YouTubeScrap: A comprehensive tool for scraping YouTube data and transcript*. (Dec) 2024. Available at: [https://github.com/ergoncugler/web-scraping-youtube](https://github.com/ergoncugler/web-scraping-youtube).**
