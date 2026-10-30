@@ -16,7 +16,7 @@ ___
 
 ### [Data] [Academic Research] [Scientific Research] [Public Policy] [Political Science] [Data Science]
 
-Its use is highly encouraged and recommended for academic and scientific research, content analysis, sentiment analysis, and speech analysis. While it is free to use and modify, the responsibility for its use and any modifications lies with the user. Feel free to explore, utilize, and adapt the code to suit your needs, but please ensure you comply with Telegram's terms of service and data privacy regulations. This tool is released under a free and open-source license. When using or modifying the tool, please ensure to provide appropriate credit and citation. Referencing the tool in your research is appreciated and contributes to its continued development and improvement.
+Its use is highly encouraged and recommended for academic and scientific research, content analysis, sentiment analysis, and speech analysis. While it is free to use and modify, the responsibility for its use and any modifications lies with the user. Feel free to explore, utilize, and adapt the code to suit your needs, but please ensure you comply with YouTube's terms of service and data privacy regulations. This tool is released under a free and open-source license. When using or modifying the tool, please ensure to provide appropriate credit and citation. Referencing the tool in your research is appreciated and contributes to its continued development and improvement.
 ___
 
 ## Steps
@@ -120,3 +120,11 @@ Isabela Rocha, from Brazil, mailto: [isabelarocha.contato@gmail.com](isabelaroch
 ## How to cite it:
 
 **SILVA, Ergon Cugler de Moraes; ROCHA, Isabela. *YouTubeScrap: A comprehensive tool for scraping YouTube data and transcript*. (Dec) 2024. Available at: [https://github.com/ergoncugler/web-scraping-youtube](https://github.com/ergoncugler/web-scraping-youtube).**
+
+___
+
+## License
+
+The code in this repository are released under the [MIT License](LICENSE). You are free to use and adapt them, provided you give appropriate credit. If this work supports your research, please cite it.
+
+Developed by [Ergon Cugler](https://ergoncugler.com).
